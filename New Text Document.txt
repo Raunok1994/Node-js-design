@@ -1,0 +1,2 @@
+api.openweathermap.org/data/2.5/weather?q=kolkata&appid=c276a22581637fc6fa64b5c5b3ce3738
+c276a22581637fc6fa64b5c5b3ce3738 -->> Raunok 
